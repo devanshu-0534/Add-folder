@@ -4,7 +4,7 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main() 
-/*{
+{
 	char ch;
 	printf("enter any character: ");
 	scanf("%c",&ch);
@@ -29,10 +29,10 @@ int main()
 	}
 	
 	return 0;
-}*/
+}
 
 
-{
+/*{
 	int a,b,c;
 	printf("Enter any three no.: ");
 	scanf("%d%d%d",&a,&b,&c);
@@ -61,7 +61,8 @@ int main()
     {
     	printf("%d and %d is same and greater than %d",b,c,a);
 	}
+		
 	else {
 		printf("all are same");
 	}
-}
+}*/
